@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message of peace in a letter consolatorie and consiliatory to a neighbor minister for resolution in severall queres, but principally about the use of the liturgie together with a friendly letter sent to Sir Edward Deering about the time of his commitment, by way of answere to his last speech : as also, concerning the liturgie and church-discipline  / .</title>
+            <author>T. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58462</idno>
+            <idno type="STC">Wing R88</idno>
+            <idno type="STC">ESTC R8133</idno>
+            <idno type="EEBO-CITATION">12589255</idno>
+            <idno type="OCLC">ocm 12589255</idno>
+            <idno type="VID">63833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E142, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message of peace in a letter consolatorie and consiliatory to a neighbor minister for resolution in severall queres, but principally about the use of the liturgie together with a friendly letter sent to Sir Edward Deering about the time of his commitment, by way of answere to his last speech : as also, concerning the liturgie and church-discipline  / .</title>
+                  <author>T. R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Saterthwait ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A message of peace" and the letter to Deering signed: T. R.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dering, Edward, --  Sir, 1598-1644 --  Most worthy speech of Sir Edward Deering spoken in the House of Commons concerning the lyturgy of the Church.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63833:1" rendition="simple:additions"/>
+            <p>A MESSAGE OF PEACE: In a LETTER <hi>Conſolatorie</hi> and <hi>Conſiliatory</hi> to a neighbour <hi>Miniſter,</hi> for Reſolution in ſeverall <hi>Queres:</hi> but principally about the uſe of the LITURGIE.</p>
+            <p>Together with A friendly Letter ſent to Sir EDWARD DEERING, About the time of his <hi>Commitment:</hi> By way of <hi>Anſwere</hi> to his laſt SPEECH: As alſo, concerning the LITURGIE and <hi>Church-Diſcipline.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Saterthwait,</hi> at the Signe of the black Bull in <hi>Budge-Row.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:63833:2"/>
+            <pb n="1" facs="tcp:63833:2"/>
+            <head>A MESSAGE OF PEACE.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning your Letter to mee, conſiſting mainely of foure particulars, I ſhall endea<g ref="char:EOLhyphen"/>vour your ſatisfaction therein. And firſt con<g ref="char:EOLhyphen"/>cerning your diſturbance even to diſcourage<g ref="char:EOLhyphen"/>ment about the great oppoſitions you meet with in the worke of your Miniſtry, from the People over whom the Lord hath placed you, I ſhall deſire your conſideration, firſt that your Miniſteriall Office in the execution of it, is the Lords <hi>Militia,</hi> and I pray remember that a common Soldier you are not in the hoſt of God, but a ſpeciall Leader of Gods people againſt the Prince of dark<g ref="char:EOLhyphen"/>neſſe and the black Guard of his helliſh infantery: and in the Apoſtles words I would provoke your Chriſtian courage, <hi>Endure hardnes as a good Soldier of Jeſus Chriſt.</hi> Secondly, con<g ref="char:EOLhyphen"/>ſider your worke is preaching the Goſpell, I meane the faith<g ref="char:EOLhyphen"/>full Word, which the Apoſtle tels you, is not after man, and if you ſhould yet pleaſe men, you ſhould not, you could not be the ſervant of <hi>Chriſt;</hi> and you are ſo allowed of God to be put in truſt with the Goſpel, not as pleaſing men but God, who tryeth the heart. I ſhall thirdly deſire you to conſider that one ſpeciall ſeale and proof of your co-miniſteriall wor<g ref="char:EOLhyphen"/>king with <hi>Chriſt;</hi> is grounded on this hoſtility of men againſt you. Conſider the ſame place 2. <hi>Cor.</hi> 6. <hi>In all things approving our ſelves as the Miniſters of Chriſt in much patience in afflictions, in neceſſities, &amp;c. Remember</hi> (ſaith <hi>Chriſt</hi> to you) <hi>the ſervant is
+<pb n="2" facs="tcp:63833:3"/>not greater then the Lord, if they have perſecuted me, they will alſo perſecute you.</hi> In ſumme you are preſidented to this by all in all <hi>Ages,</hi> even to this very day, Prophets, Apoſtles, Martyrs, Confeſſors, Profeſſors; yea, (ſaith the <hi>Apoſtle</hi>) and <hi>whoſoever will live godly in Chriſt Ieſus ſhall ſuffer perſecution.</hi> Now I be<g ref="char:EOLhyphen"/>ſeech you my deare Fellow-Souldier in <hi>Chriſt</hi> comfort your ſelfe with theſe words. Your ſecond ſcruple concerning the <hi>Liturgie</hi> I ſhall endeavour to ſatisfie; and concerting the uſe of it, I ſhall deferre the full diſquiſition thereof to our next happpie meeting: but <hi>de preſenti</hi> I ſhall onely deſire you to conſider in generall; that ſo much of it as in the materiality thereof is not repugnant to the word of God, may at leaſt for a time be tollerably uſed, you know the Apoſtle did circum<g ref="char:EOLhyphen"/>ciſe <hi>Timothy</hi> kept the <hi>Iewiſh</hi> Sabbath, ſhore his head at <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> commanded, yea docreed for <hi>Iewiſh</hi> abſtinence, <hi>Aron</hi> did burne and not eate the ſinne offering, and <hi>David</hi> did eate the ſhew bread, which was not according to the <hi>Commandement,</hi> and yet were blameleſſe; St. <hi>Pauls</hi> policy is exemplarily imi<g ref="char:EOLhyphen"/>tated by you in this caſe, <hi>I became all things to all men, that I may by lay meanes ſave ſome;</hi> and your judicious obſervation of the 14. to the <hi>Romanes,</hi> with the 28. <hi>Chap.</hi> of the firſt to the <hi>Cori.</hi> I ſuppoſe will make up a full reſolution in this matter. Sir I beſeech you ſatisfie your minde in this particular, upon theſe grounds, if you ſhall finde ſufficient evidence of truth therein: And I beſeech you waite on God, and the Honourable High Court of <hi>Parliament,</hi> till a reformation in theſe things be granted from Heaven unto us; that by the plantation of a powerfull, able and praying miniſtery, in all the deſolate and deplorable darke parts of this Kingdome, and that miſerable poore Country of <hi>Wales:</hi> in a few yeares, there may be, as doubtles there may be, as little deſire to the reading of a pub<g ref="char:EOLhyphen"/>lique liturgie, as in moſt places there is already, of the cold and powerles uſe of homilies, they being both of them an a<g ref="char:EOLhyphen"/>like, uncouth, and <hi>Babiſh</hi> publike myſteriall ſerving of God and his Church. To the other quere and wonder, you ſeeme
+<pb n="3" facs="tcp:63833:3"/>to make at the generall entrance, and violent zeale of men, to the continuance of this publique liturgique ſervice; I ſhall give ſhortly an account thereof to my abilitie; And firſt I ſhall ſay, it is little commended by their eager deſire unto it, the pure word, and the pure worſhip of God, are much at one, in the eſteeme of vulgar corrupt and carnall mindes: <hi>The fleſh luſteth againſt the Spirit, Gal.</hi> 5. But I conceive, the chiefe cauſe of the generall great out-cry, for this Liturgique Service as great almoſt as that at <hi>Epheſus, Act.</hi> 19. to be principally this; that foraſmuch as the dutie of Prayer is a naturall univerſall dutie, and impoſed by God upon the conſciences even of all; the neglect whereof is obligatory, to the neceſſitie of the Di<g ref="char:EOLhyphen"/>vine vengeance; and moſt men not being nor living in a ſpi<g ref="char:EOLhyphen"/>rituall and conſeqnently an accommodious condition to this dutie, they are thereupon faine and forced to take up a way of ſuch a praying, as moſt conſiſts with and is beſt agreeable to their unpraying unbleſſed naturall ſtate: and if this ſtaffe of their age bee taken from them, no marvell if they cry out with <hi>Micah, Ye have taken away my Gods, and what more have J left me.</hi> There is yet another thing which doth further and much intend their violent zeale to this formal ſervice, and that is this, they thus conceive, that a way of conceived, Mini<g ref="char:EOLhyphen"/>ſteriall Praying, although they account it praying, yet not theirs, and ſo they ſpeake; The Preacher is in his Prayer; his Prayer, not theirs: now a forme of Prayer eſpecially if it come in the loftie high-ſounding Language of the Church Prayers, or divine Service, which in the continuall uſe of it, they have made the matter of their owne memory; of this they cry; 'Tis ours, 'tis ours aſmuch as his, 'tis <hi>Common Prayer;</hi> and this, this onely is the divine Service of God: and which way of thus praying, the ſillieſt Ignorant in all <hi>Wales</hi> may with the Pariſh Prieſt, as expeditely and roundly go through (and even juſt ſo) as any Forreſt Foale, can go, or trot, or gal<g ref="char:EOLhyphen"/>lop, before, beſide, or after a forreſt Filly, unto which courſe of this foppiſh Popiſh Prayer, no ſmall occaſion is given, by
+<pb n="4" facs="tcp:63833:4"/>the very appointment of the Service-Booke, wherein it is ap<g ref="char:EOLhyphen"/>pointed, that the people ſhall after the Prieſt ſay over the ſelfe ſame words, by him before ſpoken, as in the Confeſſion and other where, a thing having neither ſhew of reaſon, or warrant of Scripture. I ſhut up all in the Prophets words; <hi>Curſed he the deceiver who hath in his flock a Male, and voweth and ſacrificeth unto the Lord a corrupt thing.</hi> To the fourth and laſt of your Letter, as touching your informing the ſcandalous words of that unvorthy perſon to the <hi>Parliament:</hi> although I thus think, that the leaſt diſhonourable word or malignant thought againſt thoſe noble Senators, be a neere approch to to an high degree of blaſphemy; yet conſidering the baſenes of the man, and the inferiour nature of the words ſpoken, your forbearance I verily think will be your beſt courſe. We know the worke is Gods, thoſe Worthies are about <hi>Magnalia Dei</hi> the high acts of God, and do you wonder that the dogs do barke, the Divels no doubt do gnaſh their teeth at them; but our Prayer to God and hope is ſuch that neither <hi>Rome</hi> nor Hell nor men nor Divels, as hitherto they have not, ſo never ſhall they have power (although to barke) yet not to bite them. To the reſt of your Letter I reſpit the Anſwer till the next opportunity.</p>
+            <closer>
+               <signed>
+                  <hi>I am your very friend.</hi> T. R.</signed>
+            </closer>
+         </div>
+         <div type="copy_of_a_letter">
+            <pb n="5" facs="tcp:63833:4"/>
+            <head>A Copie of the <hi>Letter,</hi> which was ſent to Sir <hi>Edward Deering.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir, upon my peruſall of your laſt Speech in Parliament, I tooke to my ſelfe, an humble purpoſe of ſignifying to your wor<g ref="char:EOLhyphen"/>thy ſelfe ſome animadverſions and notes, unto which the ſeve<g ref="char:EOLhyphen"/>rall particulars of your Speech occaſioned me: In the firſt place I ſhall be bold to ſay ingenuouſly that I heartily am ſorry that the bias of your judgement <hi>in hoc die</hi> after ſuch a Meridian light ſhining upon us (both from abroad in the reformed Churches, and at home in ſo ma<g ref="char:EOLhyphen"/>ny judicious, elaborate and learned Treatiſes formerly and of late) ſhould ſeeme ſo much to ſway to that ſide which will certainely expoſe your late Ho<g ref="char:EOLhyphen"/>nourable eſteeme in the heartss of judicious and good men to a great, at <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt diminution and diſtemper. I humbly conceive very many things in your Speech doe labour of a very great meaſure of affection: I ſhall be bold to in<g ref="char:EOLhyphen"/>ſtance in ſome few for all. It is ſurely true that much of late hath beene writ<g ref="char:EOLhyphen"/>ten and ſaid to and fro on both ſides about a right adminiſtration of Diſcipline and worſhip: and truely Sir mee thinks out of that diverſitie of what hath beene ſpoken and written, the Parliament hath a very faire overtùre given them to diſcover and find out the truth which without it would be of more difficultie to them; It is your owne way in your Parliamentary affaires, and in all Iudicatures concerning Epiſcopacie, ſo much hath beene cleerely evin<g ref="char:EOLhyphen"/>ced againſt it, and nothing of any weight for it, that I ſhall ſay nothing at all in that particular: Onely I ſhall beſeech you to conſider whether it can poſ<g ref="char:EOLhyphen"/>ſibly be believed, that amongſt any ſort of Proteſtauts, eſpecially the conſci<g ref="char:EOLhyphen"/>en<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cous party (for the conceit of ſome giddy ſilly people is inconſiderable) there be any that do proteſt againſt the <hi>3.</hi> undoubted ſigns of a true viſible Church. If you meane purity of Doctrine, Sacraments, and Diſcipline; I know for my part none that are <hi>quoad eſſe</hi> at any doubt in the former two, as con<g ref="char:EOLhyphen"/>cerning our Church; and for the latter, I know no man of a right judgement that can acknowledge it for other then ſuch as it is Romiſh and Antichriſtian; Sir, I doe not doubt, but that upon ſearch ſome may be found even amongſt us, that deny very Trinitte of Perſons and of what number the <hi>Arminian Socir<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian</hi> and other helliſh Popiſh errors are I know you are not ignorant: But if theſe or any other of the like nature ſhould now preſſe into your preſence
+<pb n="6" facs="tcp:63833:5"/>either in word or writing, I doubt not your name in your Honourable Houſe will ſhew it ſelfe in a ſodaine ſuppreſſion of them. Concerning the Liturgie, I ſhall ſay nothing, much hath beene judiciouſly ſaid about it; but I am hear<g ref="char:EOLhyphen"/>tily ſorry that ſuch words as theſe ſhould ever have fallen from the learned lips of Sir <hi>EDWARD DEERING; That the Church of</hi> England <hi>in her publike Prayers, nay her Offe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture may be as a babbler at all adventure, a brainleſſe, ſtupid, and an ignorant conceit of ſom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sir</hi> Edward Dee<g ref="char:EOLhyphen"/>ring, if conceived Prayers be a brainleſſe, ſtupid and ignorant conceit of ſome, and not moſt proper to the publike miniſtration of an able Misiſtery: I will not <hi>Say</hi> that noble Lords eyes that lately ſpake in the Houſe of Peeres on this Subject, but better eyes of multitudes then his or yours doe faile them: <hi>Sir,</hi> I conceive you are and are not a competent Iudge in this matter: Sir, I heartily wiſh with you for a Nationall Synod well tempered with Learning and Pietic, that the wavering judgements of unſettled mens winds might be rightly directed about aſwell the Doctrine of the Sabbath, as other matters of right worſhip, and Ecclefiaſticall Policie, which by reaſon of the want of a preſent, publike competent determination thereof, ſuffer much in the minde of very many. Sir, I ſhall now humbly deſire but thus much of you, even that what I have written <hi>ex animo &amp; amore,</hi> may not be taken in any ſiniſter or exaſperate ſenſe; Onely I deſire you to be pleaſed to remember that you now ſtand in a publike deſignation, of a moſt conſiderable truſt repoſed in you by God and your Countrrey impartially without paſſion; prejudice or affection, for your part to contribute your beſt abilities, to make up the hedge, in the thorough Reformation of the Church and Kingdome; that ſo the Church of England may by your bleſſed means become that which it never yet was, <hi>(the glory of the Reformed Religion)</hi> which is the humble and hearty dayly prayer of him who is,</p>
+            <closer>
+               <signed>Your unfained wel-wiſhing Friend. <hi>T. R.</hi>
+               </signed>
+               <date>Ian. <hi>21. 1642.</hi>
+               </date>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Follow Peace with all men and Holines without which no man ſhall ſee the Lord; Looking diligently, leſt any man fall from the grace of God, leſt any root of bitternes ſpringing up trouble you, and thereby many be defiled,</hi>
+                  </p>
+                  <bibl>Hebr. <hi>11.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <closer>God of his infinite mercy quench all unkindly heat in all your Honourable Aſſembly.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
